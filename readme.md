@@ -10,4 +10,4 @@ At Working Hours I am SDE at <img height="40" src="https://www.milkbasket.com/as
 
 </p>
 
-# PS : Its just rough thing right now soon it will be complete.
+# PS : Its just rough thing right now as I have started today(23-August-2020)soon it will be complete Still exploring what exciting I can do with my profile.
