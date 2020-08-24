@@ -42,3 +42,22 @@ At Working Hours I am SDE at <img height="40" src="https://www.milkbasket.com/as
  <a href = "https://github.com/HarshitChhipa/LottieForIonic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=LottieForIonic&theme=bear" /></a>
 </p>
 </details>
+
+<details open>
+ <summary><b>Some Rough Codes</b></summary>
+ <br/>
+ <a align="center">
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/HTML-72%20commits-orange.svg" alt=""></a>    
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/CSS-59%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/JavaScript-58%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/TypeScript-58%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/Dart-6%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/Objective–C-4%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/Swift-4%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/Gradle-4%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/Kotlin-4%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/PHP-4%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/Python-3%20commits-orange.svg" alt=""></a>
+ <a href="https://sourcerer.io/harshitchhipa"><img src="https://img.shields.io/badge/Go-1%20commits-orange.svg" alt=""></a>
+ </a>
+</details>
