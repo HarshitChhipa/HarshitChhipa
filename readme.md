@@ -1,13 +1,43 @@
 ## Hi There Hola👋
 
 At Working Hours I am SDE at <img height="40" src="https://www.milkbasket.com/assets/img/logo/mb-logo-horizontal.png"> which is as exciting as it sounds and besides that I am an Engineer(🔨 /🚀 ) which does all kind of work I do like Hardware(  :hammer_and_wrench:  )/Software/Music/Video Editing/Desiging/Gaming( :video_game: ) or lets say creative process which i can learn and make stuff with. 
+<br/>
+<details open>
+<summary>🤝 <b>To chit chat with me about anything</b></summary>
+<p align = "center">
 
-<p align="center"> 
-
-[![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=HarshitChhipa&show_icons=true&include_all_commits=true&show_owner=true&bg_color=30,41295a,2F0743&title_color=fff&text_color=fff)](https://github.com/HarshitChhipa)
-
-[![Top Languages of Harshit](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitChhipa&show_owner=true&bg_color=30,41295a,2F0743&title_color=fff&text_color=fff)](https://github.com/HarshitChhipa)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshit-chhipa/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/chhipa_harshit) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@HarshitChhipa)
+![Repos Badge](https://badges.pufler.dev/repos/HarshitChhipa?style=for-the-badge)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://harshit-chhipa.herokuapp.com/)
+<a href="https://github.com/HarshitChhipa">
+    <img height="28" src="https://badges.pufler.dev/years/HarshitChhipa?style=flat-square&color=black&logo=github">
+</a>
 
 </p>
+<br/>
+</details>
+<p align = "center"> 
+ <a href="https://github.com/HarshitChhipa">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitChhipa&show_icons=true&include_all_commits=true&show_owner=true&bg_color=30,41295a,2F0743&title_color=fff&text_color=fff" />
+</a>
+</p>
 
-# PS : Its just rough thing right now as I have started today(23-August-2020)soon it will be complete Still exploring what exciting I can do with my profile.
+<p align="center">
+    <a href="https://github.com/HarshitChhipa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitChhipa&show_owner=true&bg_color=30,41295a,2F0743&title_color=fff&text_color=fff" />
+    </a>
+</p>
+
+<details open> 
+ <summary><b>Featured Repos</b></summary>
+<p align = "center">
+ <a href = "https://github.com/HarshitChhipa/HarshitChhipa">
+ <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=myKnowledgeCenter&theme=bear" />
+ </a>
+</p>
+<p align = "center">
+ <a href = "https://github.com/pr2tik1/sketch-recognition"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=LottieForIonic&theme=bear" /></a>
+</p>
+</details>
