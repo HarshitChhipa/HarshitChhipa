@@ -34,10 +34,10 @@ At Working Hours I am SDE at <img height="40" src="https://www.milkbasket.com/as
  <summary><b>Featured Repos</b></summary>
 <p align = "center">
  <a href = "https://github.com/HarshitChhipa/HarshitChhipa">
- <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=myKnowledgeCenter&theme=bear" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=myKnowledgeCenter&theme=bear" />
  </a>
 </p>
 <p align = "center">
- <a href = "https://github.com/pr2tik1/sketch-recognition"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=LottieForIonic&theme=bear" /></a>
+ <a href = "https://github.com/HarshitChhipa/LottieForIonic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=LottieForIonic&theme=bear" /></a>
 </p>
 </details>
