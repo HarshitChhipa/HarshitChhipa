@@ -2,7 +2,7 @@
 
 At Working Hours I am SDE at <img height="40" src="https://www.milkbasket.com/assets/img/logo/mb-logo-horizontal.png"> which is as exciting as it sounds and besides that I am an Engineer(🔨 /🚀 ) which does all kind of work I do like Hardware(  :hammer_and_wrench:  )/Software/Music/Video Editing/Desiging/Gaming( :video_game: ) or lets say creative process which i can learn and make stuff with. 
 <br/>
-- 👨 What to know more about me at <a href="https://sourcerer.io/harshitchhipa" target="_blank">My Sourcerer Profile</a> [Sourcerer](https://sourcerer.io/harshitchhipa)
+- 👨 What to know more about me at <a href="https://sourcerer.io/harshitchhipa" target="_blank">My Sourcerer Profile</a> [Sourcerer](https://sourcerer.io/harshitchhipa) [Sourcerer](https://sourcerer.io/harshitchhipa){:target="_blank"}
 <details open>
 <summary>🤝 <b>To chit chat with me about anything</b></summary>
 <p align = "center">
