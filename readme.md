@@ -5,11 +5,12 @@ At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbask
 
 - 👨 Want to know more about languages I code with [My Sourcerer Profile](https://sourcerer.io/harshitchhipa)
 
-- Right now working on these personal things.
+- Right now working on these personal things *(Don't Judge I have work stuff too)*.
     1. A Basic Drone **(Right now on research)**.
     2. Designing My Own Porfolio **(20% Work is done)**.
     3. Learning About Design Pattern **(Learned About 10%)**.
     4. Learning More about `Flutter` **(Build Many Apps Still haven't explored the core part of it)**
+    
 
 <br/>
 <details open>
