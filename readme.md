@@ -1,19 +1,31 @@
 ## Hi There Hola👋
 
-At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbasket.com/assets/img/logo/mb-logo-horizontal.png"> which is as exciting as it sounds and besides that I am an Engineer! Always :wink: :wink: which does all kind of work I do like Hardware(  :hammer_and_wrench:  )/Software/Music/Video Editing/Desiging/Gaming( :video_game: ) or lets say creative process which i can learn and make stuff with (🔨 /🚀 ). 
+At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbasket.com/assets/img/logo/mb-logo-horizontal.png"> which is as exciting as it sounds and besides that I am an Engineer! Always :wink: :wink: which does all kind of work I do like Hardware(  :hammer_and_wrench:  )/Software/Music/Video Editing/Desiging/Gaming( :video_game: ) or lets say any creative process which i can learn and make stuff with (🔨 /🚀 ). 
 <br/>
 
 - 👨 Want to know more about languages I code with [My Sourcerer Profile](https://sourcerer.io/harshitchhipa)
 
 <details open>
+
 <summary>🤝 <b>To chit chat with me about anything</b></summary>
+
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshit-chhipa/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/chhipa_harshit) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@HarshitChhipa)
-![Repos Badge](https://badges.pufler.dev/repos/HarshitChhipa?style=for-the-badge)
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://harshit-chhipa.herokuapp.com/)
+</p>
+<br/>
+</details>
+<details open>
+
+<summary>🤝 <b>Some Other Things About Me</b></summary>
+
+<p align = "center">
+
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://harshit-chhipa.herokuapp.com/)
+![Repos Badge](https://badges.pufler.dev/repos/HarshitChhipa?style=for-the-badge)
 <a href="https://github.com/HarshitChhipa">
     <img height="28" src="https://badges.pufler.dev/years/HarshitChhipa?style=flat-square&color=black&logo=github">
 </a>
