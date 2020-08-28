@@ -43,13 +43,13 @@ At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbask
 </details>
 <p align = "center"> 
  <a href="https://github.com/HarshitChhipa">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitChhipa&show_icons=true&include_all_commits=true&show_owner=true&bg_color=30,434343,000000&title_color=fff&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitChhipa&show_icons=true&include_all_commits=true&show_owner=true&bg_color=30,434343,000000&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/HarshitChhipa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitChhipa&show_owner=true&bg_color=30,434343,000000&title_color=fff&text_color=fff" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitChhipa&show_owner=true&bg_color=30,434343,000000&title_color=fff&text_color=fff&icon_color=fff" />
     </a>
 </p>
 
@@ -57,11 +57,11 @@ At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbask
  <summary><b>Some of My Must Check Repos</b></summary>
 <p align = "center">
  <a href = "https://github.com/HarshitChhipa/HarshitChhipa">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=myKnowledgeCenter&bg_color=30,434343,000000&title_color=fff&text_color=fff" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=myKnowledgeCenter&bg_color=30,434343,000000&title_color=fff&text_color=fff&icon_color=fff" />
  </a>
 </p>
 <p align = "center">
- <a href = "https://github.com/HarshitChhipa/LottieForIonic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=LottieForIonic&bg_color=30,434343,000000&title_color=fff&text_color=fff" /></a>
+ <a href = "https://github.com/HarshitChhipa/LottieForIonic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=LottieForIonic&bg_color=30,434343,000000&title_color=fff&text_color=fff&icon_color=fff" /></a>
 </p>
 </details>
 
