@@ -54,7 +54,7 @@ At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbask
 </p>
 
 <details open> 
- <summary><b>Featured Repos</b></summary>
+ <summary><b>Some of My Must Check Repos</b></summary>
 <p align = "center">
  <a href = "https://github.com/HarshitChhipa/HarshitChhipa">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitChhipa&repo=myKnowledgeCenter&bg_color=30,434343,000000&title_color=fff&text_color=fff" />
