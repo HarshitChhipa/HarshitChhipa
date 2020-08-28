@@ -18,6 +18,7 @@ At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbask
 </p>
 <br/>
 </details>
+
 <details open>
 
 <summary>🤝 <b>Some Other Things About Me</b></summary>
@@ -31,7 +32,6 @@ At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbask
 </a>
 
 </p>
-<br/>
 </details>
 <p align = "center"> 
  <a href="https://github.com/HarshitChhipa">
