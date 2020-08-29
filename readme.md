@@ -49,7 +49,7 @@ At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbask
 
 <p align="center">
     <a href="https://github.com/HarshitChhipa">
-    <img width="485" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitChhipa&show_owner=true&bg_color=30,434343,000000&title_color=fff&text_color=fff&icon_color=fff" />
+    <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitChhipa&show_owner=true&bg_color=30,434343,000000&title_color=fff&text_color=fff&icon_color=fff" />
     </a>
 </p>
 
