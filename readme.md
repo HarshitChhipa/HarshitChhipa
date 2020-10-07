@@ -10,6 +10,7 @@ At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbask
     2. Designing My Own Porfolio **(20% Work is done)**.
     3. Learning About Design Pattern **(Learned About 10%)**.
     4. Learning More about `Flutter` **(Build Many Apps Still haven't explored the core part of it)**
+    5. Worked and finished my Cordova Plugin **(https://www.npmjs.com/package/cordova-plugin-saymyname)**
     
 
 <br/>
