@@ -1,6 +1,6 @@
 ## Hi There Hola👋
 
-At Working Hours I am **SDE** </b> at <img height="40" src="https://www.milkbasket.com/assets/img/logo/mb-logo-horizontal.png"> which is as exciting as it sounds and besides that I am an Engineer! Always :wink: :wink: which does all kind of work I do like Hardware(  :hammer_and_wrench:  )/Software/Music/Video Editing/Desiging/Gaming( :video_game: ) or lets say any creative process which i can learn and make stuff with (🔨 /🚀 ). 
+At Working Hours I am **SDE** </b> at **C2FO** which is as exciting as it sounds and besides that I am an Engineer! Always :wink: :wink: which does all kind of work I do like Hardware(  :hammer_and_wrench:  )/Software/Music/Video Editing/Desiging/Gaming( :video_game: ) or lets say any creative process which i can learn and make stuff with (🔨 /🚀 ). 
 <br/>
 
 - 👨 Want to know more about languages I code with [My Sourcerer Profile](https://sourcerer.io/harshitchhipa)
