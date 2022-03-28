@@ -1,6 +1,6 @@
-## Hi There Hola👋
+## Hola👋 There
 
-At Working Hours I am **SDE** </b> at **C2FO** which is as exciting as it sounds and besides that I am an Engineer! Always :wink: :wink: which does all kind of work I do like Hardware(  :hammer_and_wrench:  )/Software/Music/Video Editing/Desiging/Gaming( :video_game: ) or lets say any creative process which i can learn and make stuff with (🔨 /🚀 ). 
+At Working Hours I am **Fullstack Engineer** </b> at **C2FO** which is as exciting as it sounds and besides that I am an Engineer! Always :wink: :wink: which does all kind of work, I do like Hardware(  :hammer_and_wrench:  )/Software/Music/Video Editing/Desiging/Gaming( :video_game: ) or lets say any creative process which i can learn and make stuff with (🔨 /🚀 ). 
 <br/>
 
 - 👨 Want to know more about languages I code with [My Sourcerer Profile](https://sourcerer.io/harshitchhipa)
@@ -10,7 +10,7 @@ At Working Hours I am **SDE** </b> at **C2FO** which is as exciting as it sounds
     2. Designing My Own Porfolio **(20% Work is done)**.
     3. Learning About Design Pattern **(Learned About 30%)(Started prepping my PI and got the body for drone)**.
     4. Learning More about `Flutter` **(Build Many Apps Still haven't explored the core part of it)**
-    5. Worked and finished my Cordova Plugin **(https://www.npmjs.com/package/cordova-plugin-saymyname)**
+    5. ~~Worked and finished my Cordova Plugin **(https://www.npmjs.com/package/cordova-plugin-saymyname)**~~
     
 
 <br/>
