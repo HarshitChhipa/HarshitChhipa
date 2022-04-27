@@ -6,9 +6,9 @@ At Working Hours I am **Fullstack Engineer** </b> at **C2FO** which is as exciti
 - 👨 Want to know more about languages I code with [My Sourcerer Profile](https://sourcerer.io/harshitchhipa)
 
 - Right now working on these personal things *(Don't Judge I have work stuff too)*.
-    1. ~~A Basic Drone **(Right now on research){Not getting the components as per need so shifted towards the EOY}**.
-    2. ~~Designing My Own Porfolio **(20% Work is done){Postponed}**.
-    3. Learning About Design Pattern **(Learned About 30%)(Started prepping my PI and got the body for drone)**.
+    1. ~~A Basic Drone **(Right now on research){Not getting the components as per need so shifted towards the EOY}**.~~
+    2. ~~Designing My Own Porfolio **(20% Work is done){Postponed}**.~~
+    3. Learning About Design Pattern **(Learned About 30%)**.
     4. Learning More about `Flutter` **(Build Many Apps Still haven't explored the core part of it)**
     5. ~~Worked and finished my Cordova Plugin **(https://www.npmjs.com/package/cordova-plugin-saymyname)**~~
     
