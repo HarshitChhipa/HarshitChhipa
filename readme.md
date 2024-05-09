@@ -30,6 +30,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=HarshitChhipa&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HarshitChhipa&icon=2&color=1)](https://github.com/HarshitChhipa)
 
 <!-- End -->
