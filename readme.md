@@ -6,7 +6,7 @@
 
 ---
 
-# WIP
+With <b>6+ years</b> of experience in Financial Tech, Service, Hyper-Local Delivery, and E-Commerce domains, I am an accomplished Fullstack Software Engineer and an open-source contributor. Actively seeking challenging tech opportunities to leverage my skills in crafting scalable solutions while bringing positive business impact.
 
 ---
 
