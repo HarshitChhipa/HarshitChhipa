@@ -15,7 +15,9 @@ With <b>6+ years</b> of experience in Financial Tech, Service, Hyper-Local Deliv
 
 - Frontend :- React, NextJs, Angular, HTML5, CSS3
 - Backend:- NodeJs, ExpressJS, NestJs, Go, Ruby, PHP.
-- Databases :- PostgreSQL, MySQL, MongoDB, DynamoDB 
+- Databases:- PostgreSQL, MySQL, MongoDB, DynamoDB.
+- Platform:- AWS, GCloud, Atlassian
+- MISC:- GraphQL, AWS
 
 # 📊 GitHub Stats:
 
