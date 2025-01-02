@@ -13,12 +13,12 @@ With <b>6+ years</b> of experience in Financial Tech, Service, Hyper-Local Deliv
 
 # 💻 Tech Stack:
 
-- Frontend :- React, NextJs, Angular, HTML5, CSS3
-- Backend:- NodeJs, ExpressJS, NestJs, Go, Ruby, PHP, Laravel
+- Frontend :- React(NextJs,Tanstack, Shadcn, TailwindCss, React Hook Form), Angular6+, HTML5, CSS3
+- Backend:- NodeJs (ExpressJS, NestJs), Go, Ruby, PHP, Laravel, Python (Langchain,Langsmith, Langgraph)
 - Databases:- PostgreSQL, MySQL, MongoDB, DynamoDB.
 - Mobile:- Flutter, Dart, Ionic, Android, Kotlin, Codepush, Playstore/Appstore
 - Platform:- AWS, GCloud, Atlassian, Digital Ocean, Github, Heroku
-- MISC:- GraphQL, Elastic Search, Grafana, Payment Gateways(JusPay, Razorpay, Stripe)
+- MISC:- GraphQL, Elastic Search, Grafana, Payment Gateways(JusPay, Razorpay, Stripe), Supabase
 
 # 📊 GitHub Stats:
 
