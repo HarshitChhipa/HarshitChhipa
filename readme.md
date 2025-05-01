@@ -11,6 +11,8 @@ With <b>6+ years</b> of experience in Financial Tech, Service, Hyper-Local Deliv
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-chhipa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chhipa_harshit)
 
+![](https://komarev.com/ghpvc/?username=HarshitChhipa&abbreviated=true)
+
 # 💻 Tech Stack:
 
 - Frontend :- React(NextJs,Tanstack, Shadcn, TailwindCss, React Hook Form), Angular6+, HTML5, CSS3
