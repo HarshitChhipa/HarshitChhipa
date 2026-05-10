@@ -8,6 +8,7 @@ With <b>8+ years</b> of experience in Financial Tech, Service, Hyper-Local Deliv
 
 2 More Office Github
 - [Private Account](https://github.com/Harshit-Chhipa_mck)
+- [Public Account](https://github.com/HarshitChhipaMckinsey)
 
 
 ## 🌐 Socials:
