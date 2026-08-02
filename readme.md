@@ -10,7 +10,8 @@ With <b>8+ years</b> of experience in Financial Tech, Service, Hyper-Local Deliv
 ## Special Announcement 
 I am working on an exciting project which will be release to open source soon, I am very excited to execute on the idea I had!!
 
-2 More Office Github
+## Additional Github Accounts
+
 - [Private Account](https://github.com/Harshit-Chhipa_mck)
 - [Public Account](https://github.com/HarshitChhipaMckinsey)
 
